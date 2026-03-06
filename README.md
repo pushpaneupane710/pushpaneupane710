@@ -9,4 +9,4 @@ Data Analyst | Data Scientist
 
 **Contact:**
 - Email: pushpaneupane710@example.com
-- LinkedIn: [LinkedIn Profile]www.linkedin.com/in/pushpa-neupane-5759a6263
+- LinkedIn: [LinkedIn Profile] https://www.linkedin.com/in/pushpa-neupane-5759a6263
