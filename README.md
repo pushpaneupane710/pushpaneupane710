@@ -1,17 +1,12 @@
-## Hi there 👋
+# Pushpa Neupane
 
-<!--
-**pushpaneupane710/pushpaneupane710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Data Scientist
 
-Here are some ideas to get you started:
+**Key Skills:**
+- Python, Numpy, Pandas, Matplotlib
+- SQL, and Machine Learning
+- Cloud Platforms (e.g., AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+**Contact:**
+- Email: pushpaneupane710@example.com
+- LinkedIn: [LinkedIn Profile]www.linkedin.com/in/pushpa-neupane-5759a6263
