@@ -3,7 +3,7 @@
 Data Analyst | Data Scientist
 
 **Key Skills:**
-- Python, Numpy, Pandas, Matplotlib
+- Python, Numpy, Pandas, Matplotlib, Seaborn
 - SQL, and Machine Learning
 - Cloud Platforms (e.g., AWS)
 
