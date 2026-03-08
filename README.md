@@ -5,7 +5,7 @@ Data Analyst | Data Scientist
 **Key Skills:**
 - Python, Numpy, Pandas, Matplotlib, Seaborn
 - SQL, and Machine Learning
-- Cloud Platforms (e.g., AWS)
+- Cloud Platforms (e.g., Streamlit Cloud, AWS)
 
 **Contact:**
 - Email: pushpaneupane710@example.com
