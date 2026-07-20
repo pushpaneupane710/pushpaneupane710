@@ -7,6 +7,7 @@ Data Analyst | Data Scientist
 - SQL, and Machine Learning
 - Databricks
 - Cloud Platforms (e.g., Streamlit Cloud, AWS)
+- FastAPI
 
 **Contact:**
 - Email: pushpaneupane710@example.com
