@@ -13,4 +13,4 @@ Data Analyst | Data Scientist
 **Contact:**
 - Email: pushpaneupane710@example.com
 - LinkedIn: https://www.linkedin.com/in/pushpa-neupane-5759a6263
-- Portfolio: https://www.evolvue.ai/portfolio/pushpa-neupane 
+- Portfolio:  https://pushpaneupane710.github.io/ 
